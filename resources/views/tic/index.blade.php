@@ -402,6 +402,7 @@
     <script>
         $(document).ready(function () {
             //loader('show');
+            console.log('commit prueba');
         });
 
     </script>
